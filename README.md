@@ -4,7 +4,7 @@
 
 
 **Overview of the Project**
--Project Name: GEMSQL: End-to-End Text-to-SQL LLM Application
--Technologies Used: Python, SQL Workbench, Streamlit, Google Gemini Pro
--Dataset: Lok Sabha Elections 2024 India scraped from the official website (adaptable for other datasets with code adjustments)
--API Requirement: A Google Gemini Pro API key is required for functionality
+- Project Name: GEMSQL: End-to-End Text-to-SQL LLM Application
+- Technologies Used: Python, SQL Workbench, Streamlit, Google Gemini Pro
+- Dataset: Lok Sabha Elections 2024 India scraped from the official website (adaptable for other datasets with code adjustments)
+- API Requirement: A Google Gemini Pro API key is required for functionality
