@@ -1,5 +1,4 @@
-<p align="center" style="font-size:24px;"><strong>GEMSQL: End-to-End Text-to-SQL LLM Application</strong></p>
-
+# GEMSQL - Text to SQL Converter LLM Application
 
 ![GEMSQL Interface](https://github.com/user-attachments/assets/15bb10bc-3f7a-4120-9cba-5e9e70461b77)
 
