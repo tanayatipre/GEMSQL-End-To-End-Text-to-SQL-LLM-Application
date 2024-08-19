@@ -27,3 +27,7 @@ GEMSQL is an advanced end-to-end text-to-SQL LLM application that transforms nat
 https://www.youtube.com/watch?v=wFdFLWc-W4k&t=634s
 
 https://www.youtube.com/watch?v=hTtSoe-FY0I&t=131s
+
+Feel free to fork the repository, contribute, and provide feedback!
+
+
