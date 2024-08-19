@@ -8,6 +8,9 @@
 ## Overview
 GEMSQL is an advanced end-to-end text-to-SQL LLM application that transforms natural language queries into SQL queries. Leveraging Python and Streamlit for the user interface, and integrating SQL querying functionalities with Google Gemini Pro and SQL Workbench, GEMSQL provides a powerful tool for interacting with databases using natural language.
 
+- **Dataset:**
+- [2024 Lok Sabha Election Results Dataset](https://www.indiavotes.com/): The dataset used in this project contains election results from the 2024 Lok Sabha (Parliamentary) elections in India.
+
 ## Key Features
 
 - **Natural Language Processing:** Converts user queries in natural language into SQL statements.
