@@ -1,4 +1,5 @@
-. align-items-center __GEMSQL: End-to-End Text-to-SQL LLM Application__
+<p align="center"><strong>GEMSQL: End-to-End Text-to-SQL LLM Application</strong></p>
+
 
 ![GEMSQL Interface](https://github.com/user-attachments/assets/15bb10bc-3f7a-4120-9cba-5e9e70461b77)
 
