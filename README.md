@@ -12,7 +12,7 @@ GEMSQL is an advanced end-to-end text-to-SQL LLM application that transforms nat
 
 - **Natural Language Processing:** Converts user queries in natural language into SQL statements.
 
-- **Integration with Google Gemini Pro:** Utilizes advanced AI capabilities for accurate query translation.
+- **Integration with Google Gemini Pro:** Utilizes AI capabilities for accurate query translation.
 
 - **Customizable Database:** Users can change the database schema and modify examples to train the model with different datasets.
 
